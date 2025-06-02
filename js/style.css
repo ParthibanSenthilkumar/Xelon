@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Sofia Sans", sans-serif;
+    scroll-behavior: smooth;
+}
+body a{
+	text-decoration:none;
+    cursor: pointer; 
+    color: #fff;
+}
+body a:hover{
+	text-decoration:none !important;
+    color:unset !important;
+}
+body ul,body li  {
+    list-style-type: none;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+/******** header part start ********/
+.banner_bg header{
+    background-image: linear-gradient(to right, #050108, #0b0111, #0f0118, #12021d, #140223);
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1111;
+}
+.banner_bg header .nav-link {
+    color: #ffff;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px 10px;
+}
+.banner_bg header .nav-link:hover{
+    color: #ffea00 !important;
+}
+ .navbar-toggler i{
+    font-size: 25px;
+    color: #ffff;
+}
+
+.banner_bg header .navbar-brand img {
+    max-width: 200px;
+} 
+header .but1{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px 10px  0px 0px;
+    padding: 8px 22px;
+    border: 1px solid #fff;
+    border-radius: 5px;    
+}
+header .but1:hover{
+    background-color: #ffea00;
+    transition: all .3s ease-in-out;
+    border: 1px solid transparent;
+}
