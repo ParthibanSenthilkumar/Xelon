@@ -1753,6 +1753,7 @@
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
   border-radius: 5px;
+  color: #ffff !important;
 }
 .hvr-rectangle-out:hover, .hvr-rectangle-out:focus, .hvr-rectangle-out:active {
   color: #013427;
