@@ -181,9 +181,9 @@ overflow: hidden;
     margin: 50px 0px 0px;
 }
 .but i{
-    font-size: 20px;
+    font-size: 16px;
     color: #ffff;
-    margin-left:20px ;
+    margin-left: 5px;
 }
 .head_but{
        font-size: 15px;
@@ -332,10 +332,10 @@ overflow: hidden;
     margin: 0px 0px 0px 50px !important;
 }
 .Token_part .but2{
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 18px;
+    font-weight: 400;
     color: #fff;
-    padding: 8px 30px;
+    padding: 7px 30px;
     background: #1989ff;
     border-radius: 15px;
 }
